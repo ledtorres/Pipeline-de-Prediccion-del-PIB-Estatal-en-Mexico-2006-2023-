@@ -6,7 +6,7 @@ Modelo predictivo de Machine Learning para predecir el PIB per cápita por entid
 [Presentación](https://canva.link/486t5iuvv8ko186)
 [Notebook Pipeline](https://github.com/ledtorres/Pipeline-de-predicci-n-del-PIB-per-c-pita-de-M-xico-2006-2023-/blob/main/notebooks/Pipeline_PIB_per_capita.ipynb)
 [Notebook Merge](https://github.com/ledtorres/Pipeline-de-predicci-n-del-PIB-per-c-pita-de-M-xico-2006-2023-/blob/main/notebooks/Merge_Dataset_Pipeline_PIB_per_capita.ipynb)
-[Dataset]()
+[Dataset](https://github.com/ledtorres/Pipeline-de-predicci-n-del-PIB-per-c-pita-de-M-xico-2006-2023-/blob/main/data/merged_data.csv)
 
 ## Key Insights
 - Escolaridad promedio y % sector secundario son los principales determinantes del PIB per cápita estatal
