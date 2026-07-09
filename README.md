@@ -1,4 +1,4 @@
-# 🇲🇽 PIB per Cápita Estatal — México (2006–2023)
+# 🇲🇽 PIB per Cápita Estatal — México (2006–2023) 🇲🇽
 
 Modelo predictivo de Machine Learning para predecir el PIB per cápita por entidad federativa en México, identificando qué variables socioeconómicas influyen más en el desarrollo económico estatal.
 
